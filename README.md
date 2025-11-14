@@ -1,4 +1,14 @@
 # Parallax-website1
+
 parallax with js
 
-[Demo](https://mohananoruztabar.github.io/Parallax-website1/)
+-[Demo Project](https://mohananoruztabar.github.io/Parallax-website1/)
+
+-🙋🏽‍♀️ Developed by Mohana Noruztabar
+
+-📅 Created - 2025-11-14
+
+-⚙ Technologies Used - Html , css , javascript
+
+-👩🏽‍💻 Role - Frontend
+
